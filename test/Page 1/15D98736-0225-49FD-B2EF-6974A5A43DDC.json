@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.06391633919143337,
+            "green": 0.06391633919143337,
+            "red": 0.6632121598639455
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 12
+              "size": 48
             }
           },
           "paragraphStyle": {
@@ -45,12 +45,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 63,
+    "height": 58,
+    "width": 251,
     "x": 212,
-    "y": 157
+    "y": 121
   },
-  "glyphBounds": "{{0, 2}, {63, 11}}",
+  "glyphBounds": "{{3, 12}, {247, 41}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,15 +74,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.06391633919143337,
+          "green": 0.06391633919143337,
+          "red": 0.6632121598639455
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 12
+            "size": 48
           }
         },
         "paragraphStyle": {
